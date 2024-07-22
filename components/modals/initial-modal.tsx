@@ -71,7 +71,7 @@ const InitialModal = () => {
             Customize your server
           </DialogTitle>
           <DialogDescription className="text-center text-zinc-500">
-            Give Your server a personality with a name anbimage. You can always
+            Give Your server a personality with a name and image. You can always
             change later
           </DialogDescription>
         </DialogHeader>
